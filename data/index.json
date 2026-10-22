@@ -37788,6 +37788,22 @@
           "read_on": "2026-10-11"
         }
       ]
+    },
+    {
+      "vendor": "AllRatesToday",
+      "category": "Dev Utilities",
+      "description": "Keyless open exchange rate endpoint, GET https://allratestoday.com/api/open/latest/{BASE}: no signup and no key, free for personal and commercial use with a visible attribution link. European Central Bank reference rates for 30 currencies (any of the 30 as base), updated once a day after the 16:00 CET fixing. Rate limited per IP; CORS enabled. The keyed API (160+ currencies, history, central bank tables) is not a free tier: a new key gets a one-time trial of 300 requests, then needs a paid plan.",
+      "tier": "Free",
+      "url": "https://allratestoday.com/open-api/",
+      "tags": [
+        "api",
+        "currency",
+        "exchange-rates",
+        "finance",
+        "forex",
+        "keyless"
+      ],
+      "verifiedDate": "2026-10-23"
     }
   ],
   "changes": []
