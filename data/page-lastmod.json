@@ -820,8 +820,8 @@
       "changed": "2026-10-12"
     },
     "/aws-app-runner-migration": {
-      "hash": "373bdfe12eecdb4f",
-      "changed": "2026-10-22"
+      "hash": "e369f74b99df56ba",
+      "changed": "2026-10-23"
     },
     "/aws-free-tier-2026": {
       "hash": "33673c84d9c90811",
@@ -3311,8 +3311,8 @@
       "changed": "2026-10-22"
     },
     "/hosting-pricing": {
-      "hash": "27b6c6c94db0920a",
-      "changed": "2026-10-22"
+      "hash": "1ab11964fee74169",
+      "changed": "2026-10-23"
     },
     "/ide-code-editors-alternatives": {
       "hash": "c142953155916d03",
